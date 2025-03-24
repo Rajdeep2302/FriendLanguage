@@ -183,7 +183,7 @@ class PrintStatement {
     }
 }
 
-public class App { 
+public class main { 
 
     public static void main(String[] args) {
         PrintStatement pt = new PrintStatement();
